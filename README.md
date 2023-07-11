@@ -7,7 +7,7 @@ I’m a front-end developer and digital designer with over nine years of experie
 - 🔭 I’m currently working as a freelance front-end developer
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML, CSS, JavaScript, UI/UX design, and digital marketing
-- 📫 How to reach me: <link rel="me" href="https://mastodon.world/@becausejulia">@becausejulia</link>
+- 📫 How to reach me: [@becausejulia](https://mastodon.world/@becausejulia)
 - 😄 Pronouns: she/her
 - ⚡ I love synthwave music, 3D art, A-frame Houses, and ~~dogs that talk~~ Siberian Huskies / Alaskan Malamutes.
 
