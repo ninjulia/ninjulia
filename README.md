@@ -7,7 +7,7 @@ I’m a front-end developer and digital designer with over nine years of experie
 - 🔭 I’m currently working as a freelance front-end developer
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML, CSS, JavaScript, UI/UX design, and digital marketing
-- 📫 How to reach me: [@becausejulia](https://mastodon.world/@becausejulia)
+- 📫 How to reach me: [@becausejulia](https://mastodon.world/@becausejulia){rel="me"}
 - 😄 Pronouns: she/her
 - ⚡ I love synthwave music, 3D art, A-frame Houses, and ~~dogs that talk~~ Siberian Huskies / Alaskan Malamutes.
 
@@ -18,7 +18,7 @@ I’m a front-end developer and digital designer with over nine years of experie
 ## Featured GitHub Projects 💻
 
 | [![Email with Carousel Feature](https://ninjulia.github.io/email_carousel/screenshot.png)](https://github.com/ninjulia/email_carousel/) Email with Carousel Feature | [![Internet Download Speed Visualizer](https://ninjulia.github.io/JavaScript_SpeedVisualizer/screenshot.png)](https://github.com/ninjulia/JavaScript_SpeedVisualizer/) Internet Download Speed Visualizer |
-| :--- | :--- |
+| :-- | :-- |
 | [![Email Code with Embedded Video](https://ninjulia.github.io/email_html5video/screenshot.png)](https://github.com/ninjulia/email_html5video/) Email Code with Embedded Video | [![Email with Scratch-off Effect](https://ninjulia.github.io/email_scratchoff/screenshot.PNG)](https://github.com/ninjulia/email_scratchoff) Email with Scratch-off Effect |
 
 ## Achievements & Certifications 🏆
