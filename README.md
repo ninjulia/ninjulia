@@ -17,9 +17,9 @@ I’m a front-end developer and digital designer with over nine years of experie
 
 ## Featured GitHub Projects 💻
 
-| [![Email with Carousel Feature](https://ninjulia.github.io/email_carousel/screenshot.png)](https://github.com/ninjulia/email_carousel/) Email with Carousel Feature | [![Internet Download Speed Visualizer](https://ninjulia.github.io/JavaScript_SpeedVisualizer/screenshot.png)](https://github.com/ninjulia/JavaScript_SpeedVisualizer/) Internet Download Speed Visualizer |
+| [![Email Code with Embedded Video](https://ninjulia.github.io/email_html5video/screenshot.png)](https://github.com/ninjulia/email_html5video/) Email Code with Embedded Video | [![Bundle Builder](https://ninjulia.github.io/bundleBuilder/screenshot.png)](https://github.com/ninjulia/bundleBuilder/) Bundle Builder Interactive Sales Tool |
 | :-- | :-- |
-| [![Email Code with Embedded Video](https://ninjulia.github.io/email_html5video/screenshot.png)](https://github.com/ninjulia/email_html5video/) Email Code with Embedded Video | [![Email with Scratch-off Effect](https://ninjulia.github.io/email_scratchoff/screenshot.PNG)](https://github.com/ninjulia/email_scratchoff) Email with Scratch-off Effect |
+| [![Internet Download Speed Visualizer](https://ninjulia.github.io/JavaScript_SpeedVisualizer/screenshot.png)](https://github.com/ninjulia/JavaScript_SpeedVisualizer/) Internet Download Speed Visualizer | [![Email with Scratch-off Effect](https://ninjulia.github.io/email_scratchoff/screenshot.PNG)](https://github.com/ninjulia/email_scratchoff) Email with Scratch-off Effect |
 
 ## Achievements & Certifications 🏆
 
